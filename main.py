@@ -1,6 +1,4 @@
-print("github is verey good ")
-
-for i in range(3):
+for i in range(15):
     print("my name is github", i)
 
-    print("said mansouri")
+    print("abd _______________")
