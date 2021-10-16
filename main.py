@@ -1,4 +1,4 @@
 print("github is verey good ")
 
-for i in range(15):
-    print("i a pour valeur", i)
+for i in range(10):
+    print("my name is github", i)
