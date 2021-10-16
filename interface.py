@@ -1,1 +1,0 @@
-print("inter____face")
