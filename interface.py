@@ -1,0 +1,1 @@
+print("inter____face")
