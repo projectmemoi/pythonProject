@@ -4,5 +4,4 @@ for i in range(15):
     print("abd _______________test 11111111111 ")
     print('it is working well')
     print("good")
-    print('mli7')
-    print('اسمع حل الفايس باه نهضر معاك')
+
