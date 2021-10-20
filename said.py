@@ -1,7 +1,7 @@
 from tkinter import *
 root = Tk()
 
-
+print("abderrahman")
 
 entryNumberX = Entry(root, show=None, font=('Arial', 25))
 entryNumberX.place(relx=0.25, rely=0.2, relwidth=0.2, relheight=0.1)
