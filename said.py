@@ -7,7 +7,8 @@ def add():
         entryEqual.delete(0, END)
     x=entryNumberX.get()
     y=entryNumberY.get()
-    entryEqual.set(test_abd.add(x, y))
+
+    entryEqual.insert(0, test_abd.add(x, y))
 entryNumberX = Entry(root, show=None, font=('Arial', 25))
 entryNumberX.place(relx=0.25, rely=0.2, relwidth=0.2, relheight=0.1)
 
